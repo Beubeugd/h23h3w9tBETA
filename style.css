@@ -1,0 +1,159 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Hind+Siliguri&display=swap');
+
+
+html {
+	overflow: scroll;
+	overflow-y: hidden;
+	overflow-x: hidden;
+}
+
+* {
+	margin: 0;
+	padding: 0;
+
+	
+
+}
+
+body {
+
+	background-color: gray;
+	font-family: 'Raleway', sans-serif;
+}
+
+
+/* ------NAV BAR------- */
+
+
+.navbar {
+
+	background-color: black;
+	
+}
+
+nav ul li {
+
+	list-style: none; 
+	display: inline-block;
+	padding: 15px;
+
+}
+
+.menu {
+
+		float: right;
+	margin-top: -70px;
+}
+
+#deb {
+
+	margin-left: 25px;
+}
+
+
+
+
+/* -------------------- */
+
+
+
+a {
+
+	text-decoration: none;
+	color: white;
+}
+
+.content {
+
+background-image: url("policiers.png");
+
+padding-bottom: 500px;
+background-repeat: no-repeat;
+background-size: 100% 100%;
+font-family: 'Hind Siliguri', sans-serif;
+color: white;
+text-shadow: 0.5px 0.5px black;
+
+
+	}
+.titre {
+	
+	text-align: center;
+	font-weight: bold;
+	font-size: 35px;
+
+}
+
+.sub-title {
+		text-align: center;
+	font-size: 25px;
+
+
+}
+
+.texte {
+
+	font-size: 17px;
+	margin-left: 35px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* ---------FIN---------- */
+
+.photo1 {
+
+	width: 35vh;
+}
+
+.icon {
+	font-size: 35px;
+}
+
+.end {
+
+	background-color: black;
+	color: white;
+	position: fixed;
+	bottom: 0;
+	padding-right: 100%;
+
+
+
+}
+
+.aka {
+
+	margin-left: 15px;
+}
+
+.ver {
+	font-size: 15px;
+}
+
+
